@@ -15,6 +15,20 @@ Resources:
 
 ## Miscellaneous
 
+### Install and Run Ollama local
+- Installation in MacOS
+- //TODO: Pending add the key commands to install Ollama and run at least llama3.2
+
+- //TODO: Install and run [code-llama](https://ollama.com/library/codellama) in local.
+
+- To run the ollama and llama3.2 in your local terminal this is the command:
+
+`ollama run llama3.2`
+
+- Command to exit the prompt of llama3.2
+
+`/bye`
+
 ----
 ## Top Backend Languages 
 This section contains resources and thoughts about with languages and backend frameworks should be consider for my next GenAI implementation.
