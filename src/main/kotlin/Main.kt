@@ -6,6 +6,7 @@ fun main() {
     val client = OllamaClient()
 
     try {
+        // TODO: Move this properties to a local config file
         val response = client.generateCompletion(
             model = "llama3.2",
             prompt = "What is the capital of Colombia?"

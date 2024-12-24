@@ -6,6 +6,7 @@ kotlin implementation of the PoC original created by @BoukeNijhuis/test-driven-g
 - Implement Crew.ai
 - Test Code-llama LLM coding
 - Test Claude LLM for coding
+- Test Llama3.3 70b - The problem the size is 42GB ⚠️
 
 Resources:
 

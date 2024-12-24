@@ -8,6 +8,7 @@ import okhttp3.RequestBody.Companion.toRequestBody
 import okio.IOException
 
 class OllamaClient(
+    // TODO: move all this params to a local properties file.
     private val baseUrl: String = "http://localhost:11434",
     private val client: OkHttpClient = OkHttpClient(),
     private val gson: Gson = Gson()
