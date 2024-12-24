@@ -22,9 +22,9 @@ Resources:
 
 - //TODO: Install and run [code-llama](https://ollama.com/library/codellama) in local.
 
-- To run the ollama and llama3.2 in your local terminal this is the command:
+- To run the ollama and llama3.3 in your local terminal this is the command:
 
-`ollama run llama3.2`
+`ollama run llama3.3`
 
 - Command to exit the prompt of llama3.2
 

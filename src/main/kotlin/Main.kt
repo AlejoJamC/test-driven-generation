@@ -8,8 +8,8 @@ fun main() {
     try {
         // TODO: Move this properties to a local config file
         val response = client.generateCompletion(
-            model = "llama3.2",
-            prompt = "What is the capital of Colombia?"
+            model = "llama3.3",
+            prompt = "Cual es la capital de Colombia?"
         )
         println("Response: $response")
     } catch (e: Exception) {
